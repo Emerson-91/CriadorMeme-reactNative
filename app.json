@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CriadorMeme",
+    "slug": "CriadorMeme",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CriadorMeme"
+}
